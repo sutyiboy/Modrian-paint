@@ -1,0 +1,239 @@
+@charset "utf-8";
+/* CSS Document */
+#vaszon {
+  width: 500px;
+  height: 500px;
+  margin: 50px auto;
+  background-color: beige;
+  border: 12px ridge #dcd4c5;
+  box-shadow: 15px 15px 10px gray;
+}
+
+.bal {
+  float: left;
+}
+
+.jobb {
+  float: right;
+}
+
+.sarga {
+  background-color: #f7d305;
+}
+
+.fekete {
+  background-color: black;
+}
+
+.piros {
+  background-color: #f80406;
+}
+
+.kek {
+  background-color: #057fc0;
+}
+
+.feher {
+  background-color: #ddd7d7; /*tört feher*/
+}
+
+.zold {
+  background-color: #228b22;
+}
+
+#elso-sor {
+  width: 100%;
+  height: 25%;
+}
+
+#elso-negyszog {
+  height: 100%;
+  width: 15%;
+}
+
+#elso-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#masodik-negyszog {
+  height: 100%;
+  width: 47%
+}
+
+#masodik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#harmadik-negyszog {
+  height: 100%;
+  width: 34%;
+}
+
+#masodik-sor {
+  width: 100%;
+  height: 2%;
+}
+
+#harmadik-sor {
+  width: 100%;
+  height: 22%;
+}
+
+#harmadik-sor-elso-negyzet {
+  height: 100%;
+  width: 18%;
+}
+
+#harmadik-sor-elso-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#harmadik-sor-masodik-negyzet {
+  height: 100%;
+  width: 63%
+}
+
+#harmadik-sor-masodik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#harmadik-sor-harmadik-negyzet {
+  height: 100%;
+  width: 15%
+}
+
+#negyedik-sor {
+  height: 2%;
+  width: 85%;
+}
+
+#negyedik-sor-vege {
+  height: 2%;
+  width: 15%;
+}
+
+#otodik-sor {
+  width: 100%;
+  height: 22%
+}
+
+#otodik-sor-elso-negyzet {
+  height: 100%;
+  width: 18%;
+}
+
+#otodik-sor-elso-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#otodik-sor-masodik-negyzet {
+  height: 100%;
+  width: 23%
+}
+
+#otodik-sor-masodik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#otodik-sor-harmadik-negyzet {
+  height: 100%;
+  width: 25%;
+}
+
+#otodik-sor-harmadik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#otodik-sor-negyedik-negyzet {
+  height: 100%;
+  width: 11%;
+}
+
+#otodik-sor-negyedik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#otodik-sor-otodik-negyzet {
+  height: 100%;
+  width: 15%;
+}
+
+#hatodik-sor {
+  width: 100%;
+  height: 2%;
+}
+
+#fuggoleges-elso-oszto {
+  width: 2%;
+  height: 46%;
+}
+
+#hetedik-sor {
+  width: 100%;
+  height: 25%;
+}
+
+#hetedik-sor-elso-negyzet {
+  height: 100%;
+  width: 15%;
+}
+
+#hetedik-sor-elso-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#hetedik-sor-masodik-negyzet {
+  height: 100%;
+  width: 38%;
+}
+
+#hetedik-sor-masodik-oszto {
+  height: 100%;
+  width: 2%;
+}
+
+#hetedik-sor-harmadik-negyzet {
+  height: 100%;
+  width: 23%;
+}
+
+#hetedik-sor-harmadik-oszto {
+  height: 100%;
+  width: 2%;
+} 
+
+#jobb-sarok {
+  width: 18%;
+  height: 100%
+}
+
+#utolso-oszlop-sarga {
+  width: 100%;
+  height: 60%;
+}
+
+#utolso-oszlop-oszto {
+  width: 100%;
+  height: 8%;
+}
+
+#utolso-oszlop-zold {
+  width: 100%;
+  height: 32%
+}
+
+p {
+  font-family: 'Homemade Apple';
+  font-size: 12px;
+  margin-top: 95px;
+  margin-left: 12px;
+}
